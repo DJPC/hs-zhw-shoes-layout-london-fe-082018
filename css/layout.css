@@ -24,4 +24,8 @@
 
 /* Posititoning Classes */
 
+.column {
+  width: 30%;
+  display: inline-block;
+}
 
